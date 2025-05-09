@@ -1,11 +1,3 @@
-# BlockstakML
-Coding Test
-Instructions for Reviewers:
-- Please open it with Python Framework
-- Here I used Python 3 for the coding
-- Please assess the overall code structure, comments, and documentation for clarity and organization.
-
-
 Data details:
 The provided dataset is derived from the telemarketing efforts of a bank, with the goal of refining their strategy to promote term deposit accounts. 
 It comprises various customer-related attributes and campaign-specific data. The dataset includes demographic information such as customer age, job type, marital status, and education level. 
@@ -55,7 +47,6 @@ Understanding the distribution of "yes" and "no" values in this variable is of p
 This target variable is central to the bank's marketing objective, guiding efforts to refine telemarketing strategies and enhance the success of promoting long-term deposit accounts.
 
 Recommendation:
-
 To enhance their telemarketing strategy, the company should first segment their customer base based on demographic and financial factors, tailoring their approach for different customer profiles. 
 They should then carefully time their campaigns based on the distribution of contact days and consider potential seasonality effects. Analyzing the effectiveness of communication channels, 
 adjusting call durations, and optimizing the intensity of contacts can improve campaign outcomes. Leveraging historical data to avoid over-contacting customers and personalizing messaging is essential. 
